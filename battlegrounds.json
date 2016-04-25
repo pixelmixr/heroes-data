@@ -1,0 +1,192 @@
+[
+    {
+        "id": 1,
+        "name": "Battlefield of Eternity",
+        "description": "The High Heavens and the Burning Hells clash, quite literally, in a battlefield that represents their everlasting struggle. Two Immortals, ancient warriors locked in a duel to the death, need your help to prevail against their eternal foe. Vanquish the enemy Immortal, and you’ll find yourself charging over hallowed or profane ground—right onto the enemy’s doorstep.",
+        "objectives": [
+            {
+                "name": "Engage in Immortal Combat",
+                "description": "Two Immortals fight at the center of the map. Help your Immortal prevail, and lay waste to the enemy’s Forts."
+            },
+            {
+                "name": "Employ Eternal Tactics",
+                "description": "Protect your Immortal by obliterating the opposing team, or descend upon the enemy Immortal with relentless fury."
+            },
+            {
+                "name": "Hire Unique Mercenaries",
+                "description": "Bolster your forces with Fallen Shaman and cunning Impalers, who will lend their powers to your cause!"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Blackheart's Bay",
+        "description": "The ghost pirate Blackheart has staked his claim upon the realm of Mistharbor. His undead pirate crew has poured onto the streets, claiming the once thriving marketplace as their new den of villainy.",
+        "objectives": [
+            {
+                "name": "Collect Doubloons",
+                "description": "Attack treasure chests, mercenaries, and skeletons to collect doubloons."
+            },
+            {
+                "name": "Turn in Doubloons",
+                "description": "Hand your doubloons over to Blackheart or you will drop them all when you die!"
+            },
+            {
+                "name": "Bombard Your Enemies",
+                "description": "After receiving enough doubloons from your team, Blackheart will bombard your enemy's forts!"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Cursed Hollow",
+        "description": "As one of the first and most ancient realms pulled into the Nexus, the realm of Raven Court has grown large and prosperous over the millennia. The province of Cursed Hollow, a gothic landscape of twisting villages and farmlands, serves as an ideal trial grounds for the Heroes of the Storm.",
+        "objectives": [
+            {
+                "name": "Collect Tributes",
+                "description": "The Raven Lord will periodically create tributes. Gather them for your team!"
+            },
+            {
+                "name": "Curse Your Enemies",
+                "description": "Upon capturing three tributes, the Raven Lord will curse your enemies."
+            },
+            {
+                "name": "Cursed Forts and Minions",
+                "description": "Cursed forts will not attack, and cursed minions are reduced to 1 health."
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Dragon Shire",
+        "description": "These lush and deceptively peaceful gardens have grown over time, covering the once molten realm known as Dragon Spire. Beneath this verdant paradise, the ancient power of the dragons was sealed away... and their descendants have neither forgotten nor forgiven the trespasses of those who wronged them.",
+        "objectives": [
+            {
+                "name": "Control the Shrines",
+                "description": "There are two shrines your team needs to control to activate the Dragon Knight's statue."
+            },
+            {
+                "name": "Free the Dragon Knight",
+                "description": "While activated, bring a hero to the statue to free the Dragon Knight from his prison!"
+            },
+            {
+                "name": "Devastate Enemy Forts",
+                "description": "Use the Dragon Knight's immense power to level enemy forts!"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Garden of Terror",
+        "description": "Once the royal gardens were a splendor to behold. But lately a shadow has fallen over them... Writhing tendrils creep across the grounds at night, and a number of servants have disappeared while walking its twisting paths. Queen Nightshade claims to be unaware of these incidents, but some are beginning to suspect she has gone mad.",
+        "objectives": [
+            {
+                "name": "Fight the Shamblers",
+                "description": "At night, Shamblers will rise from the gardens."
+            },
+            {
+                "name": "Collect Seeds",
+                "description": "Kill the Shamblers and collect seeds for your team."
+            },
+            {
+                "name": "Control Garden Terror",
+                "description": "With 100 seeds, control a garden terror and destroy your enemies!"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Haunted Mines",
+        "description": "Far from the Cursed Hollow, on the very borders of Raven Court, lie the Haunted Mines. Sealed beneath a shadowy graveyard, the undead clamor to be released from their earthen prison.",
+        "objectives": [
+            {
+                "name": "Venture Underground",
+                "description": "The Haunted Mines will periodically open with an undead army underneath."
+            },
+            {
+                "name": "Collect the Skulls",
+                "description": "Destroy the undead and collect their skulls to power your golems!"
+            },
+            {
+                "name": "Unleash the Golems",
+                "description": "After the army has been defeated, the golems will arise for both teams. The more skulls your team collects, the stronger your golem!"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Infernal Shrines",
+        "description": "Demonic corruption threatens the Gardens of Hope. Called forth by the Shrines, Punishers prowl the battlefield, terrifying creatures that live to destroy heroes. Defeat the Shrines' Guardians before your enemies do, and the next Punisher will fight for you; fail, and face the demon's wrath.",
+        "objectives": [
+            {
+                "name": "Activate the Shrines",
+                "description": "The Infernal Shrines periodically gather power. Activate them and prepare for a fight."
+            },
+            {
+                "name": "Defeat Guardians",
+                "description": "Slay 30 Guardians before the enemy team to bring forth a mighty Punisher."
+            },
+            {
+                "name": "Beware the Punisher",
+                "description": "Punishers have one of three devastating powers. Be careful, they focus on attacking heroes above all else."
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Sky Temple",
+        "description": "Floating above the vast desert sands of Luxoria, the Sky Temple serves as a center of worship for the snake god, Ka. He stores his great power within the temples, each of them secured by guardians. With such defenses, no warriors would think to seize the god's power for themselves... or would they?",
+        "objectives": [
+            {
+                "name": "Capture the Temples",
+                "description": "Temples will periodically awaken. Stand within their grounds to capture their power!"
+            },
+            {
+                "name": "Hold the Temples",
+                "description": "Remain firm and the temple will unleash a blistering onslaught on your enemy's forts!"
+            },
+            {
+                "name": "Defend the Temples",
+                "description": "Guardians will try to wrest control of their temples from your team. Hold them off to keep the temple's power for yourselves!"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Tomb of the Spider Queen",
+        "description": "The long forgotten tombs of Luxoria have found a new master. Deep within their timeworn chambers, the Spider Queen Neithis stirs from her ancient slumber. Present her with the gems of power she seeks, and you may just escape with your lives.",
+        "objectives": [
+            {
+                "name": "Collect Gems",
+                "description": "Enemy spider minions and Heroes drop magical gems upon death. Gather as many as you can!"
+            },
+            {
+                "name": "Turn in Gems",
+                "description": "Relinquish your gems at one of the Spider Queen’s altars or you will drop them all when you die!"
+            },
+            {
+                "name": "Summon Webweavers",
+                "description": "Whichever team turns in enough gems first will unleash the Webweavers to destroy their enemy’s defenses."
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Towers of Doom",
+        "description": "The Grave Keeper and the Raven Lord are engaged in a classic battle of evil versus… different evil? Protective magic shields your Core from enemy Heroes, but nothing will save you from these two masters of the dark arts. Hold the Bell Towers, capture the Altars, and unleash your wicked benefactor’s power on your enemies.",
+        "objectives": [
+            {
+                "name": "Protected Cores",
+                "description": "Both Cores are protected by a barrier that cannot be attacked by Heroes. To be victorious, you must activate Altars."
+            },
+            {
+                "name": "Activate Altars",
+                "description": "Periodically Altars will rise across the battlefield. Activate them to have your Bell Towers fire upon the enemy’s Core."
+            },
+            {
+                "name": "Claim Bell Towers",
+                "description": "Destory your enemy’s Towers to bring them under your team’s control. The more Towers you have, the more damage an Altar will do."
+            }
+        ]
+    }
+]
